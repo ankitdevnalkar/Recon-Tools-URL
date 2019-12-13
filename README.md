@@ -1,5 +1,5 @@
 # Recon-Tools-URL
-collected bunch of tools that can help during recon process and will keep adding more
+collected bunch of tools that I use during recon process and will keep adding more
 
 https://github.com/rbsec/dnscan	DNS information
 	
